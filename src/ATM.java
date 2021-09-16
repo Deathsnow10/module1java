@@ -1,5 +1,3 @@
-import java.security.SecureRandom;
-
 public class ATM {
     public static void main(String[] args){
         float a=45 ,b=120,c;
